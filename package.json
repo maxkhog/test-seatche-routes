@@ -1,0 +1,19 @@
+{
+  "name": "avia_scan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.6.0",
+    "arg": "^4.1.3",
+    "esm": "^3.2.25",
+    "inquirer": "^7.3.3",
+    "typescript": "^4.0.2"
+  },
+  "bin": {
+    "avia": "bin/avia"
+  },
+  "scripts": {
+    "compile": "tsc -p ."
+  }
+}
