@@ -1,7 +1,8 @@
 # Init
   init command 
-  1. yarn compile
-  2. yarn link
+  1. yarn
+  2. yarn compile
+  3. yarn link
 
 # Usage
 
